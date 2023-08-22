@@ -61,7 +61,3 @@ By using BentoML, you can easily serve your model as a high-performance API endp
 This project is a demonstration of how one can build and deploy models with BentoML. You can access the complete code in this repository.
 
 If you find it helpful, feel free to clone, download, or contribute to this project.
-
-```
-Remember to replace the dummy project links and contact details with yours before publishing. I hope this helps! Let me know if there's anything more I can assist you with.  
-```
